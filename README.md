@@ -4,7 +4,7 @@
 
 Diseño, planifico y construyo soluciones escalables que resuelven problemas complejos del mundo real. Mi enfoque principal es la **implementación de tecnologías emergentes** para modernizar arquitecturas, optimizar flujos de trabajo y crear productos digitales de alto impacto.
 
-###🦇 acerca de mi
+### 🦇 acerca de mi
 
 * 🧗 Lidero el ciclo de vida completo del desarrollo de software: desde la planificación estratégica y arquitectura; actualmente el despliegue está en tiempo de aprendizaje.
 * 💻 Construyo sistemas robustos utilizando **Python (Django)** y ecosistemas **JavaScript (Node.js/React)**.
