@@ -1,5 +1,8 @@
 # Hola, soy Juan Diego 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=estudiante+de+ingenier%C3%ADa+en+sistemas)](https://git.io/typing-svg)
+
+
 **Arquitecto de Software | Project Manager | Desarrollador y detective de problemas**
 
 Diseño, planifico y construyo soluciones escalables que resuelven problemas complejos del mundo real. Mi enfoque principal es la **implementación de tecnologías emergentes** para modernizar arquitecturas, optimizar flujos de trabajo y crear productos digitales de alto impacto.
